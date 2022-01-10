@@ -1,0 +1,2 @@
+# StaticExercise
+TrueCoders Exercise
